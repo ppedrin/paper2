@@ -1,8 +1,9 @@
 # Title 
-Aging of biomass burning aerosols over West Africa (github course)
+Simulations of biomass burning aerosols over West Africa (github course)
 
 # Author
 Renan Kindermann
+John Snow
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
