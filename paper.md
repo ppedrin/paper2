@@ -1,5 +1,5 @@
 # Title 
-Aging of biomass burning aerosols over West Africa (github course)
+Aircraft measurements of biomass burning aerosols over West Africa (github course)
 
 # Author
 Renan Kindermann
