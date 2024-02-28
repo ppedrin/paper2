@@ -1,5 +1,5 @@
 # Title 
-Aircraft measurements and simulations of biomass burning aerosols over West Africa (github course)
+Ship measurements and simulations of biomass burning aerosols over West Africa (github course)
 
 # Author
 
